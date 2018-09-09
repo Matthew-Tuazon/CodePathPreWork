@@ -5,9 +5,8 @@
 ### App Description
 Pre work application for CodePath iOS Course.
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="http://recordit.co/QMcMYKQzy9" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/QMcMYKQzy9.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&amp;Expires=1536479051&amp;Signature=WVIEp7TP2vDzvIGeMA%2FXqe%2FH8v0%3D" width=200><br>
 
 
 ### Required User Stories
