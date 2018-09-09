@@ -6,7 +6,7 @@
 Pre work application for CodePath iOS Course.
 ### App Walk-though
 
-![showcase](https://s3.amazonaws.com/img0.recordit.co/QMcMYKQzy9.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1536479051&Signature=WVIEp7TP2vDzvIGeMA%2FXqe%2FH8v0%3D) 
+![showcase](http://g.recordit.co/QMcMYKQzy9.gif) 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
